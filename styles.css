@@ -6,3 +6,92 @@ figcaption, h1, h2, h3, ul, li, body, div, p, img {
     vertical-align: baseline;
     border: 0;
 }
+
+body{
+    font-family: 'Lucida Sans Regular', sans-serif;
+    color: white;
+    background-color: #1a2634;
+}
+
+header{ 
+    padding: 0.75em;
+}
+
+header nav{
+    text-align: right;
+    font-size: 1em;
+    font-weight: 350;
+    padding-right: 1em;
+}
+
+nav a{
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+nav a:link{
+    color: #ffffff;
+}
+
+nav a:visited{
+    color: #ffffff;
+}
+
+nav a:hover{
+    color: #b8ffef;
+}
+
+h1{
+    font-weight: 320;
+    font-size: 1.75em;
+    margin-top: 200px;
+    margin-left: 250px;
+}
+
+.hi-there{
+    color: #ff79be;
+    font-size: 2em;
+    font-weight: 370;
+}
+
+.name{
+    font-size: 1.5em;
+    font-weight: 370;
+}
+
+.creative-thinker{
+    color: #b8ffef;
+}
+
+.intro-home{
+    width: 495px;
+    margin-left:250px;
+    margin-top:2em;
+}
+
+.intro-home p{
+    font-size: 1.25em;
+    font-weight: 330;
+    margin-bottom:25px;
+}
+
+.intro-home a{
+    font-weight:350;
+    font-size: 1.2em;
+    text-decoration: none;
+
+}
+
+.intro-home a:link{
+    color: #ffffff;
+}
+
+.intro-home a:visited{
+    color: #ffffff;
+}
+
+.intro-home a:hover{
+    color: #b8ffef;
+}
+
+
